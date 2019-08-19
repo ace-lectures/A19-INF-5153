@@ -21,13 +21,13 @@ Les cours vont reprendre des principes de base de la programmation orientée obj
 
 **Les dates de remise s'entendent sur le fuseau horaire de Montréal, à 23:50 le jour de la date de remise. Tout rendu hors délai recevra la note de zéro (0). Les règles concernant le plagiat seront appliquées sans aucune tolérance.**
 
-| Date(s)        | Travail à rendre | Objectif | Poids |
-| :---:          | :---   | :---    | :---: |
-|  05.09 ➝ 24.09 | Projet 1 |  Conception guidée (individuel) | 10% |
-|  17.10         | :notebook: **Examen intra**  | Principes fondamentaux  | 20% |
-|  25.09 ➝ 20.10 | Projet 2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
-|  21.10 ➝ 15.12 | Projet 2 - Final | Corriger une conception, intégrer des évolutions  | 20% |
-|  | :notebook: **(Examen final)**  | Principes fondamentaux & avancés  | 40% |
+| Date(s)        | Travail à rendre               | Objectif                                             | Poids |
+| :---:          | :---                           | :---                                                 | :---: |
+|  05.09 ➝ 24.09 | Projet 1                       |  Conception guidée (individuel)                      | 10%   |
+|  17.10         | :notebook: **Examen intra**    | Principes fondamentaux                               | 20%   |
+|  25.09 ➝ 20.10 | Projet 2 - PMV                 | Concevoir et développer un produit minimal & viable  | 10%   |
+|  21.10 ➝ 15.12 | Projet 2 - Final               | Corriger une conception, intégrer des évolutions     | 20%   |
+|  12.12         | :notebook: **(Examen final)**  | Principes fondamentaux & avancés                     | 40%   |
 
 Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Classroom. Les TPs sont a réaliser par équipe. Les dépôts de code seront clonés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué.  La couverture _fonctionelle_ de vos TPs est automatiquement vérifiée par la bonne exécution de scénarios _Cucumber_.
 
