@@ -4,11 +4,11 @@
 
   * Équipe Enseignante :
     * Professeur : Sébastien Mosser ([Site web personnel](https://mosser.github.io), [Groupe de recherche ACE](https://ace-design.github.io))
-    * Démonstrateur/Démonstratrice : _a définir_
+    * Démonstrateur/Démonstratrice : Carlos Cortez-Linares
     * Correcteur/Correctrice : _a définir_
   * Horaire du groupe `040`, session d'automne 2019:
-    * Cours : Jeudi, 09h30 - 12h30, local a définir
-    * Atelier : Mardi, 09h30 - 11h30, local a définir
+    * Cours : Jeudi, 09h30 - 12h30, PK-R610
+    * Atelier : Mardi, 09h30 - 11h30, _local a définir_ (PK-S1550 temporairement)
   * Communication :
     * Disponibilité sans rendez-vous : Jeudi, 08h00 - 09h30, local PK-4820
     * Slack : [https://inf5153-a19.slack.com](https://inf5153-a19.slack.com) (sur invitation)
@@ -79,17 +79,13 @@ Materiel supplémentaire :
  
 ## Travaux
 
-### Entraînement
+Les ateliers ne sont pas optionnels, et font partie intégrante de l'enseignement de ce cours. Si vous avez un conflit d'horaire avec un autre cours et une dérogation de la direction de votre programme d'étude associée, informez immédiatement l'équipe enseignante sur Slack.
 
-Ce projet n'est pas évalué, mais permet de vérifier que vous êtes armé à la réalisation des deux projets à suivre. 
-
-  * Projet 0 : [Bac à sable](./projets/P0.md) 
-
-### Projets (à rendre)
+### Projets de session (à rendre)
 
 Vous êtes fortement encouragés à utiliser Slack pour poser des questions durant les projets. 
 
-  * Projet 1 : le Jeu de Poker (individuel)
+  * Projet 1 : [le Jeu de Poker](./projets/TP1.md) (individuel)
   * Projet 2 : Explorations d'îles inconnues (en équipe de 3 ou 4 étudiants)
     * Version intermédiaire : _Produit Minimal & Viable_
     * Version finale : _Produit Complet_  
