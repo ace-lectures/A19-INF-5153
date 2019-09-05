@@ -12,9 +12,9 @@
   2. Analyser un code légataire en vue de le faire évoluer;
   3. Transformer ce code en véritable application orientée objet;
   4. Faire évoluer un code objet en respectant dans la mesure du possible :
-    1. les principes `S`, `O` et `L` de `SOLID`;
-    2. la Loi de Demeter (principe de connaissance minimale);
-    3. les principes objet de faible couplage / forte cohésion.
+      1. les principes `S`, `O` et `L` de `SOLID`;
+      2. la Loi de Demeter (principe de connaissance minimale);
+      3. les principes objet de faible couplage / forte cohésion.
   5. Décrire une application orientée objet avec le langage UML (diagrammes d'_objets_, de _séquences_ et de _classes_).
 
 Les ateliers sont des temps où l'équipe enseignante (prof + démo) est présente pour vous donner de la rétro-action sur votre projet. Il est vital de profiter de ce temps de travail prévu dans votre emploi du temps pour améliorer vos projets avant la remise finale.
@@ -27,8 +27,8 @@ Les ateliers sont des temps où l'équipe enseignante (prof + démo) est présen
   4. Vos trois modèles (`object_diagram.xxx`, `sequence_diagram.xxx` et `class_diagram.xxx`) doivent se trouver dans le repertoire `_models`, au format `PUML`, `PDF` ou `PNG`.  
   5. Votre code doit compiler et tester (sans échouer) en lançant la commande `mvn clean package` à la racine de votre projet
   6. Votre code doit se lancer depuis la ligne de commande, toujours depuis la racine:
-    * `mvn exec:java` pour la version demandant de saisir les mains au clavier
-    * `mvn -q exec:java -Dexec.args="'AA BB CC DD EE' '1C 4H QD 9D 3S'"` 
+      * `mvn exec:java` pour la version demandant de saisir les mains au clavier
+      * `mvn -q exec:java -Dexec.args="'AA BB CC DD EE' '1C 4H QD 9D 3S'"` 
 
 **Toute remise ne respectant pas ces consignes ne sera pas évaluée et obtiendra la note de zéro (0).**
 
@@ -68,7 +68,7 @@ Rappel des règles du Poker :
 
   * Si ce n'est pas déjà le cas, créez un compte sur la plateforme [GitHub](http://github.com/)
   * Rendez vous sur la page du travail : 
-    * [Travail P1 : Jeu de Poker](https://classroom.github.com/a/_EFWjuKn)
+      * [Travail P1 : Jeu de Poker](https://classroom.github.com/a/_EFWjuKn)
   * Acceptez le travail, et identifiez vous dans la liste en choisissant votre code permanent (**attention à ne pas prendre le code d'un de vos collègue**)
   * Vous obtenez un dépôt de code chez GitHub dédié à ce travail, dans lequel vous pouvez travailler.
 
