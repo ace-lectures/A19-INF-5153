@@ -23,7 +23,7 @@ Les cours vont reprendre des principes de base de la programmation orientée obj
 
 | Date(s)        | Travail à rendre               | Objectif                                             | Poids |
 | :---:          | :---                           | :---                                                 | :---: |
-|  05.09 ➝ 24.09 | Projet 1                       |  Conception guidée (individuel)                      | 10%   |
+|  05.09 ➝ 24.09 | Projet 1                       | Conception guidée (individuel)                       | 10%   |
 |  17.10         | :notebook: **Examen intra**    | Principes fondamentaux                               | 20%   |
 |  25.09 ➝ 20.10 | Projet 2 - PMV                 | Concevoir et développer un produit minimal & viable  | 10%   |
 |  21.10 ➝ 15.12 | Projet 2 - Final               | Corriger une conception, intégrer des évolutions     | 20%   |
@@ -45,7 +45,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 
 | #Semaine | Atelier (Mardi, 2h) | Cours (Jeudi, 3h) | 
 | :---: | :---:   | :---    | 
-| #36   |  _Bac à sable_ | Pourquoi concevoir ? De _Programmeur_ à _Développeur_. |
+| #36   |  _Bac à sable_ | [Pourquoi concevoir ? De _Programmeur_ à _Développeur_.](./cours/01_Programmeur_Developpeur.pdf) |
 | #37   |  Poker  | Encapsulation, Types et Interfaces  |
 | #38   |  Poker  | Composition _versus_ Héritage   |
 | #39   |  Island (MVP) | Principes de conception (GRASP, SOLID)  |
@@ -106,26 +106,37 @@ Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULT
 ### Livres d'enseignement
 
   * _Introduction to Software Design with Java_. Springer, 2019.
-    * Martin Robillard. 
+    * Martin Robillard (_McGill University_). 
+    * [Accès PDF SpringerLink via UQAM](https://link.springer.com/book/10.1007%2F978-3-030-24094-3)
   * _UML@Classroom_, Springer Verlag, 2015.
-    * Martina Seidl, Marion Scholz, Christian Huemer & Gerti Kappel.
+    * Martina Seidl, Marion Scholz, Christian Huemer & Gerti Kappel (_Université de Technologie de Vienne_).
+    * [Accès PDF SpringerLink via UQAM](https://link.springer.com/book/10.1007%2F978-3-319-12742-2)
+    * [Site web ressource (diapos additionelles)](http://www.uml.ac.at/en/)
 
 ### Livres professionels
 
   * _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, Addison Wesley, 2011.
     * Nick Rozanski & Eoin (_pronounced “Owen”_) Woods.
+    * Disponible en bibliothèque (BU Sciences, cote `QA 76.76 D47 R69 .2012`)
   * _Head First Design Patterns, a brain friendly guide_. O'REILLY. 
     * Eric Freeman, Elisabeth Robson. 
+    * _(Existe en version française: "Design patterns tête la première")_
   * _Clean Code_. 
     * Robert Martin. Prentice Hall. 
+    * Disponible en bibliothèque (BU Sciences, cote `QA 76.76 D47 M38 .2009`)
+    * _(Existe en version française: "Coder proprement")_
   * _Pragmatic Unit Testing_. The pragmatic programmers. 
     * Jeff Langr, with Andy Hunt and Dave Thomas.  
+    * Disponible en bibliothèque (BU Sciences, cote `QA 76.73 J38 L36 .2015`)
   * _Implementing Domain-Driven Design_, Addison-Wesley Professional, 2013.
     * Vaughn Vernon
   * _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison Wesley, 1994.
     * Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides.
+    * Disponible en bibliothèque (BU Sciences, cote `QA76.64D49`)
+    * _(Existe en version française: "Design patterns catalogue de modèles de conception réutilisables")_ 
   * _Refactoring: Improving the Design of Existing Code_, Addison Wesley, 2018 (2nd edition)
     * Martin Fowler.  
+    * Disponible en bibliothèque (BU Sciences, cote `QA 76.76 R42 F69 .1999`)
 
 ## Règlement 18 sur les Infractions de nature académique
 
