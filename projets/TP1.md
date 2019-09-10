@@ -115,6 +115,12 @@ mosser@lucifer P1-JeuDePoker$
 ```
 Rendu à cette étape, vous êtes prêt à contribuer sur le projet !
 
+### Bug possibles
+
+  - Si vous rencontrez des _warnings_ a l'exécution (_p.-ex._, `IllegalReflectiveAccessException`), il s'agit d'un problème de compatibilité entre votre installation de Java et votre version de Maven et votre version de la bibliothèque `guice`. Vous pouvez réparer en harmonisant vos versions de logiciels, mais sinon ce n'est pas grave pour l'exécution du TP
+  - Si votre version de Maven n'a pas été compilée avec le même JDK que le votre, il est possible que le prompt `p1?`. `p2?` s'affiche après la saisie des mains en mode intercatif. Pour exécuter le programme sans l'aide de maven (et donc fixer temporairement le problème), vous pouvez utiliser la commande : `java -cp ./target/poker-1.0-SNAPSHOT.jar uqam.inf5153.poker.Main`
+
+
 ## Étape 2 : Analyse du Code Légataire
 
 Le code source légataire fourni est stocké dans le repertoire `src/main/java`, en respect des conventions Maven. La classe `uqam.inf5153.poker.Main` contient l'implémentation de départ d'un programme répondant (on l'espère) aux spécifications.
