@@ -54,7 +54,7 @@ On s'intéresse à une version _simplifiée_ d'un arbitre de poker, qui permet d
 
 Nous avons fait quelques simplifications dans le jeu de poker pour ce premier projet : 
 
-  - Seuls les combinaisons de cartes suivantes sont gérées pour le moment : _plus haute carte_ (`HIGHEST_CARD`), _paire_ (`PAIR`) et _couleur_ (`FULL`).
+  - Seuls les combinaisons de cartes suivantes sont gérées pour le moment : _plus haute carte_ (`HIGHEST_CARD`), _paire_ (`PAIR`) et _couleur_ (`FLUSH`).
   - L'as (_c.à.d._ les cartes de valeur `1`) est considérée comme la carte la plus faible du jeu.
   - On ne gère pas la triche, _p.-ex._ deux mains qui contiendrait la même carte. 
 
@@ -142,9 +142,9 @@ Analysez ce code en fonction de votre connaissance de la programmation objet et 
 
 ## Étape 3 : Réusinage en code objet  
 
-Le code fourni est trop endetté à date. Nous prenons la décision d'effectuer un _réusinage_ du code pour le transformer en application orientée objet.
+Le code fourni est trop endetté à date. Nous prenons la décision d'effectuer un _réusinage_ du code pour le transformer en application orientée objet et aini mettre en oeuvre les demandes du client de la partie précédente.
 
-En restant dans le paquetage `uqam.inf5153.poker`, identifiez un ensemble de concepts (_c.à.d_ des classes, des interfaces, des énumérés) qui permettront de travailler au bon niveau d'abstraction de la logique d'affaire du projet pour définir un vrai système d'arbitrage. 
+En restant dans le paquetage `uqam.inf5153.poker`, identifiez un ensemble de concepts (_c.à.d_ des classes, des interfaces, des énumérés) qui permettront de travailler au bon niveau d'abstraction de la logique d'affaire du projet pour définir un vrai système d'arbitrage et implémenter les besoins cités précédemment. 
 
 Typiquement on ne devrait plus travailler sur des tableaux de tableaux de caractères pour représenter les cartes des joueurs, mais sur des mains (_p.-ex._ une classe `Hand`), des cartes (_p.-ex._ une classe `Card`), _etc_. Lors du réusinage, vous êtes libre d'utiliser un vocabulaire francophone ou anglophone pour nommer les concepts que vous décidez d'intégrer dans votre conception, mais ne mélangez pas les deux langues. 
 
