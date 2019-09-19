@@ -47,7 +47,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | :---: | :---:   | :---    | 
 | #36   |  _Bac à sable_ | [Pourquoi concevoir ? De _Programmeur_ à _Développeur_.](./cours/01_Programmeur_Developpeur.pdf) |
 | #37   |  Poker  | [Encapsulation, Types et Interfaces](./cours/02_Encapsulation_Type_Etat.pdf)  |
-| #38   |  Poker  | Composition _versus_ Héritage, Tests.   |
+| #38   |  Poker  | [Composition _versus_ Héritage, Tests](./cours/03_Composition_Heritage_Tests.pdf)   |
 | #39   |  Island (MVP) | Principes de conception (GRASP, SOLID)  |
 | #40   |  Island (MVP) | Live-coding: _Dice Forge_  |
 | #41   |  Island (MVP) | Patrons de conception (padawan)  |
