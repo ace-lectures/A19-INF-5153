@@ -4,8 +4,7 @@
 
   * Équipe Enseignante :
     * Professeur : Sébastien Mosser ([Site web personnel](https://mosser.github.io), [Groupe de recherche ACE](https://ace-design.github.io))
-    * Démonstrateur/Démonstratrice : Carlos Cortez-Linares
-    * Correcteur/Correctrice : _a définir_
+    * Démonstrateur : Carlos Cortez-Linares
   * Horaire du groupe `040`, session d'automne 2019:
     * Cours : Jeudi, 09h30 - 12h30, PK-R610
     * Atelier : Mardi, 09h30 - 11h30, _local a définir_ (PK-S1550 temporairement)
