@@ -7,7 +7,7 @@
     * Démonstrateur : Carlos Cortez-Linares
   * Horaire du groupe `040`, session d'automne 2019:
     * Cours : Jeudi, 09h30 - 12h30, PK-R610
-    * Atelier : Mardi, 09h30 - 11h30, _local a définir_ (PK-S1550 temporairement)
+    * Atelier : Mardi, 09h30 - 11h30,PK-S1565 (anciennement PK-S1550)
   * Communication :
     * Disponibilité sans rendez-vous : Jeudi, 08h00 - 09h30, local PK-4820
     * Slack : [https://inf5153-a19.slack.com](https://inf5153-a19.slack.com) (sur invitation)
