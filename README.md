@@ -88,6 +88,7 @@ Vous êtes fortement encouragés à utiliser Slack pour poser des questions dura
   * Projet 2 : Explorations d'îles inconnues (en équipe de 3 ou 4 étudiants)
     * Version intermédiaire : _Produit Minimal & Viable_
     * Version finale : _Produit Complet_  
+    * Documents : [Description du sujet](./projets/TP2/README.md), [Protocole d'utilisation du drone](./projets/TP2/Drone.md)
 
 
 ## Barème
