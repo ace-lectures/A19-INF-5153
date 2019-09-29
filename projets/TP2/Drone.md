@@ -142,7 +142,6 @@ En acceptant le travail sur _Classroom_, vous avez obtenu un dépôt contenant u
 
   1. Vous devez renommer le paquetage dans lequel est le code en remplaçant le `X` par la lettre qui a été attribuée à votre équipe.
   2. Vous devez changer le `artifact_id` dans le fichier `pom.xml`, en remplaçant le `X` par la lettre qui a été attribuée à votre équipe
-  3. Vous devez change dans le 
   3. Chaque semaine, vous devez étiqueter la version mise en jeu avec le numéro de la semaine en question (voir sujet détaillé)
 
 
