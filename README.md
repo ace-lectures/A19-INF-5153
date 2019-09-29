@@ -89,6 +89,7 @@ Vous êtes fortement encouragés à utiliser Slack pour poser des questions dura
     * Version intermédiaire : _Produit Minimal & Viable_
     * Version finale : _Produit Complet_  
     * Documents : [Description du sujet](./projets/TP2/README.md), [Protocole d'utilisation du drone](./projets/TP2/Drone.md)
+        * Fichier de carte pour démarrer [`_map.json`](https://gist.githubusercontent.com/mosser/fedfb0b5b97ef88832e9d431835ccc4f/raw/31c1b4b47641bc049149530bdf465c68cdebdfb4/_map.json)
 
 
 ## Barème
