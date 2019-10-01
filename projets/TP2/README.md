@@ -101,8 +101,8 @@ D'un point de vue fonctionnel, le client souhaite poursuivre deux objectifs, à 
       3. _Obj.1.3_ : Localiser toutes les criques permettant de débarquer sur l'île
       4. _Obj.1.4_ : Localiser la crique la plus proche du site d'urgence
   2. Objectif #2 (_Obj.2_) : **Cartographie des ressources**
-      1. _Obj.2.1_ : Lister une ressource présente sur l'île
-      2. _Obj.2.2_ : Lister toutes les ressources présente sur l'île
+      1. _Obj.2.1_ : Lister un biome présent sur l'île
+      2. _Obj.2.2_ : Lister tous les biomes présente sur l'île
       3. _Obj.2.3_ : Approximer la surface de l'île par rapport à celle de l'océan
       4. _Obj.2.4_ : Approximer la surface de d'eau potable (lacs) présente sur l'île
 
