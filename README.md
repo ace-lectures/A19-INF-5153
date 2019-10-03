@@ -48,7 +48,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | #37   |  Poker  | [Encapsulation, Types et Interfaces](./cours/02_Encapsulation_Type_Etat.pdf)  |
 | #38   |  Poker  | [Composition _versus_ Héritage, Tests](./cours/03_Composition_Heritage_Tests.pdf)   |
 | #39   |  Poker  | [Principes de conception (GRASP, SOLID)](./cours/04_SOLID_GRASP.pdf)  |
-| #40   |  Island (MVP) | [Étude de cas _Jeu de Dés_](./cours/05_JeuDeDés.pdf)  |
+| #40   |  Island (MVP) | [Étude de cas _Jeu de Dés_](./cours/05_JeuDeD%C3%A9s.pdf)  |
 | #41   |  Island (MVP) | Patrons de conception (padawan)  |
 | #42   |  Island (MVP) | **Examen intra** |
 | #43   | _Présentations_ | _Présentations_ |
