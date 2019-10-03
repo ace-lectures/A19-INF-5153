@@ -44,15 +44,15 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 
 | #Semaine | Atelier (Mardi, 2h) | Cours (Jeudi, 3h) | 
 | :---: | :---:   | :---    | 
-| #36   |  _Bac à sable_ | [Pourquoi concevoir ? De _Programmeur_ à _Développeur_.](./cours/01_Programmeur_Developpeur.pdf) |
+| #36   |  | [Pourquoi concevoir ? De _Programmeur_ à _Développeur_.](./cours/01_Programmeur_Developpeur.pdf) |
 | #37   |  Poker  | [Encapsulation, Types et Interfaces](./cours/02_Encapsulation_Type_Etat.pdf)  |
 | #38   |  Poker  | [Composition _versus_ Héritage, Tests](./cours/03_Composition_Heritage_Tests.pdf)   |
 | #39   |  Poker  | [Principes de conception (GRASP, SOLID)](./cours/04_SOLID_GRASP.pdf)  |
-| #40   |  Island (MVP) | Live-coding: _Dice Forge_  |
+| #40   |  Island (MVP) | [Étude de cas _Jeu de Dés_](./cours/05_JeuDeDés.pdf)  |
 | #41   |  Island (MVP) | Patrons de conception (padawan)  |
 | #42   |  Island (MVP) | **Examen intra** |
 | #43   | _Présentations_ | _Présentations_ |
-| #44   |  Island (Complet) | Retours sur l'intra & les projets |
+| #44   |  Island (Complet) | Étude de cas intra & Rétro-action projets |
 | #45   |  Island (Complet) | Patrons de conception (chevalier)  |
 | #46   |  Island (Complet) | Patrons de conception (maître)  |
 | #47   |  Island (Complet) | Live-coding: _UQAM Unit Test Framework_ |
