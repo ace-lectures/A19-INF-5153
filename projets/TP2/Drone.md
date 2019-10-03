@@ -19,7 +19,7 @@ A chaque tour de jeu, le système de contrôle va demander à votre programme (v
 Le premier tour de jeu ainsi que le dernier sont particuliers : 
 
   - Lors du premier tour de jeu, avant de vous demander votre décision, le système va envoyer des informations contextuelles à votre programme, en appellant la méthode `initialize`. Cela vous permet de récupérer le budget disponible pour mener à bien votre exploration.
-  - Lors du dernier tour de jeu, le système demandera à votre programme de rendre son rapport d'exploration, en appellant la méthode `generateReport`. C'est dans ce rapport que vous rendrez compte des objectifs que vous remplissez.
+  - Lors du dernier tour de jeu, le système demandera à votre programme de rendre son rapport d'exploration, en appellant la méthode `deliverFinalReport`. C'est dans ce rapport que vous rendrez compte des objectifs que vous remplissez.
 
 Les messages échangés entre le drone est le système de contrôle utilise le format `JSON`. Le code d'exemple fourni au démarrage donne un exemple de lecture et d'écriture dans ce format en utilisant la bibliothèque de référence `org.json`.
 
