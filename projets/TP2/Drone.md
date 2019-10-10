@@ -41,8 +41,8 @@ L'exploration se termine dans les cas suivants :
 
 ### Information disponible au démarage
 
-  - budget : la quantité de temps / énergie disponible pour mener à bien l'exploration avec le drone. 
-  - cap : le cap auquel fait face le drone (_p.-ex._ faire cap à l'Est veut dire rentrer sur la zone d'exploration par le bord gauche de la carte)
+  - budget : la quantité de temps / énergie disponible pour mener à bien l'exploration avec le drone. Il s'agit d'un nombre entier positif.
+  - cap : le cap auquel fait face le drone (_p.-ex._ faire cap à l'Est veut dire rentrer sur la zone d'exploration par le bord gauche de la carte). Ce cap est une chaine de caractère parmi [`N`,`S`,`E`,`W`].
 
 
 ## Actions disponibles
