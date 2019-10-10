@@ -61,16 +61,16 @@
         <artifactId>isg</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    <!-- <dependency>
+    <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isj</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency> -->
-    <!-- <dependency>
+    </dependency>
+    <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isl</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency> -->
+    </dependency>
     <!-- <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>iso</artifactId>
@@ -81,11 +81,11 @@
         <artifactId>isr</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    <dependency>
+    <!-- <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>iss</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency>
+    </dependency> -->
     <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>ist</artifactId>
