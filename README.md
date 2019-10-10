@@ -5,9 +5,10 @@
   * Équipe Enseignante :
     * Professeur : Sébastien Mosser ([Site web personnel](https://mosser.github.io), [Groupe de recherche ACE](https://ace-design.github.io))
     * Démonstrateur : Carlos Cortez-Linares
+    * Correctrice : Imen Benzarti
   * Horaire du groupe `040`, session d'automne 2019:
     * Cours : Jeudi, 09h30 - 12h30, PK-R610
-    * Atelier : Mardi, 09h30 - 11h30,PK-S1565 (anciennement PK-S1550)
+    * Atelier : Mardi, 09h30 - 11h30, PK-S1565 (anciennement PK-S1550)
   * Communication :
     * Disponibilité sans rendez-vous : Jeudi, 08h00 - 09h30, local PK-4820
     * Slack : [https://inf5153-a19.slack.com](https://inf5153-a19.slack.com) (sur invitation)
@@ -49,7 +50,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | #38   |  Poker  | [Composition _versus_ Héritage, Tests](./cours/03_Composition_Heritage_Tests.pdf)   |
 | #39   |  Poker  | [Principes de conception (GRASP, SOLID)](./cours/04_SOLID_GRASP.pdf)  |
 | #40   |  Island (MVP) | [Étude de cas _Jeu de Dés_](./cours/05_JeuDeD%C3%A9s.pdf)  |
-| #41   |  Island (MVP) | Patrons de conception (padawan)  |
+| #41   |  Island (MVP) | [Intro aux Patrons de conception (padawan)](./cours/06_design_patterns.pdf)  |
 | #42   |  Island (MVP) | **Examen intra** |
 | #43   | _Présentations_ | _Présentations_ |
 | #44   |  Island (Complet) | Étude de cas intra & Rétro-action projets |
