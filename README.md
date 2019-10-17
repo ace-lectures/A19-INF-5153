@@ -51,7 +51,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | #39   |  Poker  | [Principes de conception (GRASP, SOLID)](./cours/04_SOLID_GRASP.pdf)  |
 | #40   |  Island (MVP) | [Étude de cas _Jeu de Dés_](./cours/05_JeuDeD%C3%A9s.pdf)  |
 | #41   |  Island (MVP) | [Intro aux Patrons de conception (padawan)](./cours/06_design_patterns.pdf)  |
-| #42   |  Island (MVP) | **Examen intra** |
+| #42   |  Island (MVP) | **Examen intra** (Campus central, locaux A-2405, A-2625, A 27-10)|
 | #43   | _Présentations_ | _Présentations_ |
 | #44   |  Island (Complet) | Étude de cas intra & Rétro-action projets |
 | #45   |  Island (Complet) | Patrons de conception (chevalier)  |
