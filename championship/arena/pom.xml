@@ -46,11 +46,11 @@
     <!-- # Teams # -->
     <!-- ######### -->
 
-    <!-- <dependency>
+    <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isd</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency> -->
+    </dependency>
     <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>ise</artifactId>
@@ -66,26 +66,26 @@
         <artifactId>isj</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    <dependency>
+    <!-- <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isl</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency>
-    <!-- <dependency>
+    </dependency> -->
+    <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>iso</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency> -->
+    </dependency>
     <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isr</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    <!-- <dependency>
+    <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>iss</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency> -->
+    </dependency>
     <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>ist</artifactId>
