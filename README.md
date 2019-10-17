@@ -68,7 +68,6 @@ Materiel supplémentaire :
       * autorisée au examens en plus d'une feuille de note manuscrites
 
   * Dépôts de code : 
-      * Étude de cas "_Dice Forge_" : à venir  
       * [Référence pour les patrons de conception](https://github.com/ace-lectures/pattern-repository)
       * [Étude de cas "_UQAM Unit Test Framework_"](https://github.com/ace-lectures/inf5153-junit-demo) 
 
