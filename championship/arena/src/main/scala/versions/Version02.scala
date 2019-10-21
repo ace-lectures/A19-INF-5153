@@ -11,7 +11,7 @@ import eu.ace_design.island.stdlib.Resources._
 object Version02 extends Run with INF5153_40 {
 
   override val number: String = "02"
-  //override def outputDir: String = s"../simulations/$number"
+  override def outputDir: String = s"../simulations/_mvp/$number"
 
   override val seed: Long                = Islands.s02
   override lazy val theIsland: IslandMap = Islands.week02

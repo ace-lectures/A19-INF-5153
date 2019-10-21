@@ -66,11 +66,11 @@
         <artifactId>isj</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    <!-- <dependency>
+    <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isl</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency> -->
+    </dependency>
     <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>iso</artifactId>
@@ -91,11 +91,11 @@
         <artifactId>ist</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    <!-- <dependency>
+    <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isu</artifactId>
         <version>0.1-SNAPSHOT</version>
-    </dependency> -->
+    </dependency>
     <dependency>
         <groupId>ca.uqam.inf5153.island</groupId>
         <artifactId>isw</artifactId>
@@ -148,6 +148,19 @@
             </configuration>
           </execution>
         </executions>
+          <configuration>
+              <!-- mvn scala:run -Dlauncher=foo -->
+              <launchers>
+                  <launcher>
+                  <id>regular</id>
+                  <mainClass>Main</mainClass>
+              </launcher>
+                  <launcher>
+                      <id>retrospective</id>
+                      <mainClass>versions.VersionMVP</mainClass>
+                  </launcher>
+              </launchers>
+          </configuration>
       </plugin>
     </plugins>
   </build>

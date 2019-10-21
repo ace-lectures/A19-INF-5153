@@ -11,12 +11,12 @@ trait INF5153_40 extends Teams {
     "ise" ->  classOf[ca.uqam.inf5153.island.ise.Explorer],
     "isg" ->  classOf[ca.uqam.inf5153.island.isg.Explorer],
     "isj" ->  classOf[ca.uqam.inf5153.island.isj.Explorer],
-    //"isl" ->  classOf[ca.uqam.inf5153.island.isl.Explorer],
+    "isl" ->  classOf[ca.uqam.inf5153.island.isl.Explorer],
     "iso" ->  classOf[ca.uqam.inf5153.island.iso.Explorer],
     "isr" ->  classOf[ca.uqam.inf5153.island.isr.Explorer],
     "iss" ->  classOf[ca.uqam.inf5153.island.iss.Explorer],
     "ist" ->  classOf[ca.uqam.inf5153.island.ist.Explorer],
-    //"isu" ->  classOf[ca.uqam.inf5153.island.isu.Explorer],
+    "isu" ->  classOf[ca.uqam.inf5153.island.isu.Explorer],
     "isw" ->  classOf[ca.uqam.inf5153.island.isw.Explorer]
     //"isz" ->  classOf[ca.uqam.inf5153.island.isz.Explorer]
   )
