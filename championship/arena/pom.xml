@@ -149,16 +149,16 @@
           </execution>
         </executions>
           <configuration>
-              <!-- mvn scala:run -Dlauncher=foo -->
+              <!-- mvn scala:run -Dlauncher=regular -->
               <launchers>
                   <launcher>
                   <id>regular</id>
                   <mainClass>Main</mainClass>
+                  <jvmArgs>
+                      <jvmArg>-Xms64m</jvmArg>
+                        <jvmArg>-Xmx1024m</jvmArg>
+                  </jvmArgs>
               </launcher>
-                  <launcher>
-                      <id>retrospective</id>
-                      <mainClass>versions.VersionMVP</mainClass>
-                  </launcher>
               </launchers>
           </configuration>
       </plugin>
