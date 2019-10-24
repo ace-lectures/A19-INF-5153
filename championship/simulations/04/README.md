@@ -3,6 +3,7 @@
 ## Starting a Run with the following players on island week04
   - ISD, ISE, ISG, ISS, ISU
 
+```
 19:49:53.679 Island/Board: [GameBoardBuilder] Starting GameBoard building process
 19:49:53.707 Island/Board: [GameBoardBuilder] Binding faces to game tiles
 19:49:58.210 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
@@ -12,6 +13,7 @@
 19:49:58.955 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
 19:49:59.251 Island/Board: [GameBoardBuilder] Introducing Points of Interest
 19:49:59.269 Island/Board: [GameBoardBuilder] GameBoard building process ended
+```
 
 ## Island Map information
   - Map Size:  1600x1600
