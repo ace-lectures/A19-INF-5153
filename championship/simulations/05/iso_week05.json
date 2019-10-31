@@ -9,7 +9,7 @@
     "budget": 15000
   },
   "part": "Engine",
-  "time": 1572478971828,
+  "time": 1572481547425,
   "meth": "initialize"
 },{
   "data": {
@@ -17,11 +17,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971860,
+  "time": 1572481547429,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 0
@@ -29,7 +29,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971869,
+  "time": 1572481547429,
   "meth": "takeDecision"
 },{
   "data": {
@@ -37,11 +37,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971870,
+  "time": 1572481547430,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 8,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 52
@@ -49,7 +49,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971873,
+  "time": 1572481547430,
   "meth": "takeDecision"
 },{
   "data": {
@@ -57,16 +57,16 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971875,
+  "time": 1572481547431,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971878,
+  "time": 1572481547431,
   "meth": "takeDecision"
 },{
   "data": {
@@ -74,11 +74,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478971879,
+  "time": 1572481547431,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 51
@@ -86,7 +86,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971881,
+  "time": 1572481547432,
   "meth": "takeDecision"
 },{
   "data": {
@@ -94,11 +94,11 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478971881,
+  "time": 1572481547432,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 1
@@ -106,16 +106,16 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971882,
+  "time": 1572481547432,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1572478971883,
+  "time": 1572481547433,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "creeks": [],
       "biomes": ["OCEAN"],
@@ -124,7 +124,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971892,
+  "time": 1572481547433,
   "meth": "takeDecision"
 },{
   "data": {
@@ -132,7 +132,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478971896,
+  "time": 1572481547435,
   "meth": "takeDecision"
 },{
   "data": {
@@ -141,7 +141,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971896,
+  "time": 1572481547435,
   "meth": "takeDecision"
 },{
   "data": {
@@ -149,11 +149,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971897,
+  "time": 1572481547436,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 7,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 50
@@ -161,7 +161,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971898,
+  "time": 1572481547436,
   "meth": "takeDecision"
 },{
   "data": {
@@ -169,7 +169,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971898,
+  "time": 1572481547437,
   "meth": "takeDecision"
 },{
   "data": {
@@ -181,21 +181,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971898,
+  "time": 1572481547437,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971899,
+  "time": 1572481547437,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971900,
+  "time": 1572481547437,
   "meth": "takeDecision"
 },{
   "data": {
@@ -203,11 +203,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971900,
+  "time": 1572481547437,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 7,
     "extras": {
       "found": "GROUND",
       "range": 24
@@ -215,7 +215,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971901,
+  "time": 1572481547437,
   "meth": "takeDecision"
 },{
   "data": {
@@ -223,7 +223,61 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971902,
+  "time": 1572481547437,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547437,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547438,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547438,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547438,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 21
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547438,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547438,
   "meth": "takeDecision"
 },{
   "data": {
@@ -235,21 +289,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971902,
+  "time": 1572481547438,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971903,
+  "time": 1572481547438,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 2,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971903,
+  "time": 1572481547438,
   "meth": "takeDecision"
 },{
   "data": {
@@ -257,7 +311,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971903,
+  "time": 1572481547438,
   "meth": "takeDecision"
 },{
   "data": {
@@ -269,7 +323,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971903,
+  "time": 1572481547438,
   "meth": "takeDecision"
 },{
   "data": {
@@ -277,33 +331,33 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971904,
+  "time": 1572481547439,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547439,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971904,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971905,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971905,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
@@ -311,61 +365,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971906,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 21
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971907,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971907,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971908,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971908,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971908,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971908,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
@@ -377,7 +377,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971908,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
@@ -385,11 +385,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971909,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 7,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -397,21 +397,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971909,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971909,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 2,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971909,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
@@ -419,11 +419,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971910,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 4,
     "extras": {
       "found": "GROUND",
       "range": 5
@@ -431,7 +431,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971910,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
@@ -439,11 +439,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971910,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -451,21 +451,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971910,
+  "time": 1572481547439,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971911,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971911,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -473,7 +473,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971911,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -485,7 +485,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971911,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -493,7 +493,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971911,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -505,12 +505,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971912,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971912,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -519,7 +519,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971912,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -527,11 +527,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971912,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 4,
     "extras": {
       "found": "GROUND",
       "range": 5
@@ -539,7 +539,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971913,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -547,11 +547,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971913,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -559,12 +559,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971913,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971913,
+  "time": 1572481547440,
   "meth": "takeDecision"
 },{
   "data": {
@@ -573,7 +573,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971913,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -581,11 +581,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971914,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 6,
     "extras": {
       "found": "GROUND",
       "range": 6
@@ -593,7 +593,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971914,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -601,7 +601,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971914,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -613,21 +613,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971914,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971914,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 2,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971914,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -635,7 +635,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971915,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -647,7 +647,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971915,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -655,7 +655,61 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971915,
+  "time": 1572481547441,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547441,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547441,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547441,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547441,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 8
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547441,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -667,21 +721,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971915,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971916,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 2,
+    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971916,
+  "time": 1572481547441,
   "meth": "takeDecision"
 },{
   "data": {
@@ -689,11 +743,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971916,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "found": "GROUND",
       "range": 8
@@ -701,7 +755,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971916,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
@@ -709,61 +763,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971916,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971917,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971920,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971920,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971921,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 8
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971922,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971922,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
@@ -775,12 +775,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971922,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971923,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
@@ -789,7 +789,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971923,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
@@ -797,439 +797,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971923,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 9
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971923,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971924,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971924,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971924,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971924,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971924,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 10
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971925,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971925,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971925,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971925,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971925,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971925,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 11
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971926,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971926,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971926,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971927,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971927,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971927,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 11
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971927,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971928,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971928,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971928,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971928,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971929,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 11
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971929,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971929,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971930,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971930,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971930,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971930,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 10
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971931,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971931,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971931,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971931,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971931,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971932,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 11
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971932,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971933,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971933,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971933,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971934,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971935,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 10
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971936,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971936,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971940,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971942,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971943,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971943,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1241,7 +809,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971944,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1249,7 +817,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971944,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1261,12 +829,390 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971944,
+  "time": 1572481547442,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971944,
+  "time": 1572481547442,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547442,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547442,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 10
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547442,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 11
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 11
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547443,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "found": "GROUND",
+      "range": 11
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 10
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 11
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547444,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 10
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547445,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1275,7 +1221,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971944,
+  "time": 1572481547445,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1283,7 +1229,61 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971945,
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 9
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547445,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1295,7 +1295,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971945,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1303,7 +1303,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971945,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1315,21 +1315,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971946,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971946,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 6,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971946,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1337,11 +1337,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971946,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 5,
     "extras": {
       "found": "GROUND",
       "range": 17
@@ -1349,7 +1349,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971946,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1357,11 +1357,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971947,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 7,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -1369,53 +1369,53 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971947,
+  "time": 1572481547446,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971947,
+  "time": 1572481547446,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547446,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547446,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 18
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547447,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971948,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971949,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 18
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971950,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971951,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -1423,120 +1423,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971951,
+  "time": 1572481547447,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971951,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971951,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971952,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 18
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971955,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971956,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971956,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971956,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971959,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971959,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 18
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971959,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971961,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971961,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971961,
+  "time": 1572481547447,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1545,7 +1437,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971961,
+  "time": 1572481547447,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1553,19 +1445,19 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971962,
+  "time": 1572481547447,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 5,
     "extras": {
       "found": "GROUND",
-      "range": 14
+      "range": 18
     },
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971962,
+  "time": 1572481547447,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1573,7 +1465,115 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971963,
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 18
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547447,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547448,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547448,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547448,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "found": "GROUND",
+      "range": 14
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547448,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1585,21 +1585,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971963,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971967,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 2,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971967,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1607,7 +1607,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971968,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1619,7 +1619,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971969,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1627,547 +1627,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971969,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971969,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971970,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971970,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971970,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971970,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971970,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971971,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971971,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971972,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971972,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971972,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971973,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971973,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971973,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971973,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971974,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971974,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971974,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971974,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971974,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971974,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971975,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971975,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971975,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971976,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971976,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971976,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971977,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 7,
-    "extras": {
-      "found": "GROUND",
-      "range": 7
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971979,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971981,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971982,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971984,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971984,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971984,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971984,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971984,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971985,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971985,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971985,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971985,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971985,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971986,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971986,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971986,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971986,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971987,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971987,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971988,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 7,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971988,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971988,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971988,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971990,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971990,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971991,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 7,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971991,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971991,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971991,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971991,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971991,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971992,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2179,21 +1639,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971992,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971992,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 6,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971992,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2201,19 +1661,19 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971992,
+  "time": 1572481547448,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 6,
     "extras": {
       "found": "GROUND",
-      "range": 6
+      "range": 5
     },
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971992,
+  "time": 1572481547449,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2221,11 +1681,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971993,
+  "time": 1572481547449,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 6,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -2233,21 +1693,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971993,
+  "time": 1572481547449,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971993,
+  "time": 1572481547449,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971993,
+  "time": 1572481547449,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2255,19 +1715,19 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971993,
+  "time": 1572481547449,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 8,
     "extras": {
       "found": "GROUND",
-      "range": 7
+      "range": 5
     },
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971993,
+  "time": 1572481547449,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2275,7 +1735,169 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971993,
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 8,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547449,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547450,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547450,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547450,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 7
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547450,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2287,21 +1909,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971993,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971994,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971994,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2309,19 +1931,19 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971994,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 5,
     "extras": {
       "found": "GROUND",
-      "range": 7
+      "range": 6
     },
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971994,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2329,7 +1951,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971994,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2341,21 +1963,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971994,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971995,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971995,
+  "time": 1572481547450,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2363,7 +1985,385 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478971995,
+  "time": 1572481547450,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547450,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 5
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 5
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 5
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547451,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "found": "GROUND",
+      "range": 7
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547452,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "GROUND",
+      "range": 7
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547453,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547453,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2375,7 +2375,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971995,
+  "time": 1572481547453,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2383,7 +2383,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478971995,
+  "time": 1572481547453,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2395,228 +2395,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478971996,
+  "time": 1572481547453,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478971996,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971996,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971996,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 15
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971996,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971996,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971996,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971997,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971997,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478971997,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 16
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971997,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478971998,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971998,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478971999,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478971999,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478972000,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 16
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972001,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478972001,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972002,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972003,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972003,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1572478972003,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 15
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972003,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1572478972003,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972003,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972004,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2625,7 +2409,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972004,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2633,19 +2417,19 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478972004,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 7,
     "extras": {
       "found": "GROUND",
-      "range": 16
+      "range": 15
     },
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972004,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2653,7 +2437,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478972005,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2665,12 +2449,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972005,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972005,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2679,7 +2463,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972005,
+  "time": 1572481547454,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2687,7 +2471,115 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478972005,
+  "time": 1572481547454,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 16
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547454,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547454,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547454,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547454,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547454,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547454,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 16
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547455,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547455,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547455,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547455,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547455,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547455,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2699,7 +2591,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972005,
+  "time": 1572481547455,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2707,11 +2599,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478972006,
+  "time": 1572481547455,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 6,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -2719,21 +2611,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972006,
+  "time": 1572481547455,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972006,
+  "time": 1572481547455,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 6,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972006,
+  "time": 1572481547455,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2741,7 +2633,115 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478972006,
+  "time": 1572481547455,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "GROUND",
+      "range": 16
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547455,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 15
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547456,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1572481547456,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2753,7 +2753,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972007,
+  "time": 1572481547457,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2761,11 +2761,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1572478972007,
+  "time": 1572481547457,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 2
@@ -2773,7 +2773,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972007,
+  "time": 1572481547457,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2781,70 +2781,16 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478972007,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972007,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972008,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972008,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972008,
+  "time": 1572481547457,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 7,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 51
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972008,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972009,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972009,
+  "time": 1572481547457,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2852,11 +2798,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972009,
+  "time": 1572481547458,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 1
@@ -2864,7 +2810,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972009,
+  "time": 1572481547458,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2872,11 +2818,11 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972009,
+  "time": 1572481547459,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 8,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 51
@@ -2884,12 +2830,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972010,
+  "time": 1572481547459,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972011,
+  "time": 1572481547460,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2898,7 +2844,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972011,
+  "time": 1572481547460,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2906,7 +2852,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972011,
+  "time": 1572481547460,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2918,7 +2864,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972012,
+  "time": 1572481547460,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2926,7 +2872,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972013,
+  "time": 1572481547460,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2938,21 +2884,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972015,
+  "time": 1572481547461,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972016,
+  "time": 1572481547461,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972016,
+  "time": 1572481547461,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2960,7 +2906,61 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972016,
+  "time": 1572481547461,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547461,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547461,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 51
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547461,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547462,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547462,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547463,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2972,7 +2972,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972017,
+  "time": 1572481547463,
   "meth": "takeDecision"
 },{
   "data": {
@@ -2980,11 +2980,11 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972017,
+  "time": 1572481547463,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 51
@@ -2992,21 +2992,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972017,
+  "time": 1572481547463,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972018,
+  "time": 1572481547464,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972018,
+  "time": 1572481547464,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3014,61 +3014,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972018,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972018,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972018,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 51
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972019,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972019,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972019,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972019,
+  "time": 1572481547464,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3080,7 +3026,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972019,
+  "time": 1572481547464,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3088,7 +3034,61 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972019,
+  "time": 1572481547464,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 51
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547465,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547465,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547465,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547465,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547465,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547465,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3100,12 +3100,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972020,
+  "time": 1572481547465,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972020,
+  "time": 1572481547465,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3114,7 +3114,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972020,
+  "time": 1572481547465,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3122,11 +3122,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972020,
+  "time": 1572481547465,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 1
@@ -3134,7 +3134,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972020,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3142,11 +3142,11 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972020,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 5,
     "extras": {
       "found": "GROUND",
       "range": 10
@@ -3154,12 +3154,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972021,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972021,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3168,7 +3168,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972021,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3176,7 +3176,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972021,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3188,7 +3188,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972021,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3196,215 +3196,53 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972022,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 8
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972022,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972023,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972024,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972024,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 7,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972024,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972024,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 8
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972025,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972025,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972025,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972025,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972025,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972025,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 8
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972025,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972026,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972026,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972026,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972026,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972026,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 8
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972026,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972027,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972027,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972027,
+  "time": 1572481547466,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 6,
     "extras": {
+      "found": "GROUND",
+      "range": 8
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547467,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547467,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547467,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547467,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
       "found": "OUT_OF_RANGE",
       "range": 1
     },
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972027,
+  "time": 1572481547467,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3412,11 +3250,173 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972027,
+  "time": 1572481547467,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 8
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547467,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547467,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547467,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 8
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547468,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 8
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
     "extras": {
       "found": "GROUND",
       "range": 7
@@ -3424,75 +3424,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972027,
+  "time": 1572481547469,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972027,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972027,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972028,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972028,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972028,
+  "time": 1572481547469,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 8
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972028,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972028,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972028,
+  "time": 1572481547469,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3500,61 +3446,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972028,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972028,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972029,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 8
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972029,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972029,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972029,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972029,
+  "time": 1572481547469,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3566,7 +3458,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972029,
+  "time": 1572481547469,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3574,7 +3466,61 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972029,
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 8
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547469,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547470,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547470,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547470,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547470,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547470,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3586,12 +3532,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972029,
+  "time": 1572481547470,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972030,
+  "time": 1572481547471,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3600,7 +3546,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972030,
+  "time": 1572481547471,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3608,7 +3554,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972030,
+  "time": 1572481547471,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3620,7 +3566,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972030,
+  "time": 1572481547471,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3628,11 +3574,65 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972030,
+  "time": 1572481547471,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "GROUND",
+      "range": 8
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547471,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547471,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547471,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547471,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547472,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547472,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
     "extras": {
       "found": "GROUND",
       "range": 1
@@ -3640,12 +3640,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972032,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972033,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3654,7 +3654,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972034,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3662,7 +3662,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972034,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3674,7 +3674,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972035,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3682,11 +3682,11 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972035,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "found": "GROUND",
       "range": 1
@@ -3694,21 +3694,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972035,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972036,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 2,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972037,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3716,215 +3716,53 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972037,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 8,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972037,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972037,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 3
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972037,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972037,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972038,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972038,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972038,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972038,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 3
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972038,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972038,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972038,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972039,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972039,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972039,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972039,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972039,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972039,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972040,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972040,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972040,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972040,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972041,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547472,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547472,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "GROUND",
+      "range": 3
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547472,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547472,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972041,
+  "time": 1572481547472,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3932,7 +3770,61 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972042,
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 3
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547473,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3944,7 +3836,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972042,
+  "time": 1572481547473,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3952,11 +3844,119 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972042,
+  "time": 1572481547473,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547473,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547474,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547474,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547474,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547474,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547474,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
     "extras": {
       "found": "GROUND",
       "range": 5
@@ -3964,21 +3964,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972042,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972042,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972043,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
@@ -3986,11 +3986,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972043,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 1
@@ -3998,7 +3998,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972043,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4006,7 +4006,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972043,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4018,21 +4018,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972043,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972043,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 6,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972044,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4040,11 +4040,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972044,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 8,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 1
@@ -4052,7 +4052,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972044,
+  "time": 1572481547474,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4060,7 +4060,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972044,
+  "time": 1572481547475,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4072,12 +4072,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972044,
+  "time": 1572481547475,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972044,
+  "time": 1572481547475,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4086,7 +4086,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972044,
+  "time": 1572481547475,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4094,7 +4094,169 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972044,
+  "time": 1572481547475,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547475,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547475,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547475,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "GROUND",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547477,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547478,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547478,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4106,7 +4268,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972046,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4114,61 +4276,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972046,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972046,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972046,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972046,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972046,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972048,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972049,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4180,75 +4288,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972049,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972049,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972049,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972050,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972050,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972050,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972050,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972050,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972050,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4256,169 +4310,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972050,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972050,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972050,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972051,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972051,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972051,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972051,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972051,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972051,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972051,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 2
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972052,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972052,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4430,7 +4322,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972053,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4438,33 +4330,33 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972053,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 5,
     "extras": {
       "found": "GROUND",
-      "range": 3
+      "range": 2
     },
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972053,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972053,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972053,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4472,31 +4364,139 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972053,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972054,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972054,
+  "time": 1572481547478,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 7,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547478,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547478,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "GROUND",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547478,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 3
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 8,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547479,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
     "extras": {
       "found": "GROUND",
       "range": 4
@@ -4504,21 +4504,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972054,
+  "time": 1572481547479,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972054,
+  "time": 1572481547479,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 6,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972054,
+  "time": 1572481547479,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4526,11 +4526,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972054,
+  "time": 1572481547479,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 1
@@ -4538,7 +4538,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972054,
+  "time": 1572481547479,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4546,7 +4546,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972055,
+  "time": 1572481547479,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4558,21 +4558,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972055,
+  "time": 1572481547479,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972055,
+  "time": 1572481547480,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972055,
+  "time": 1572481547480,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4580,7 +4580,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972055,
+  "time": 1572481547480,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4592,7 +4592,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972055,
+  "time": 1572481547480,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4600,7 +4600,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972055,
+  "time": 1572481547480,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4612,12 +4612,174 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972056,
+  "time": 1572481547480,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972057,
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547480,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547481,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4626,7 +4788,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972057,
+  "time": 1572481547481,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4634,7 +4796,169 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972057,
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547481,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "found": "GROUND",
+      "range": 6
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "GROUND",
+      "range": 5
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547482,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4646,7 +4970,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972057,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4654,277 +4978,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972058,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972058,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972058,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972058,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972058,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972058,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972059,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972060,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972061,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972061,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "found": "GROUND",
-      "range": 6
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972061,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972061,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972061,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972061,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972061,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972061,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4936,12 +4990,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972062,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972062,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4950,7 +5004,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972062,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4958,7 +5012,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972062,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4970,7 +5024,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972062,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
@@ -4978,11 +5032,11 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972062,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {
       "found": "GROUND",
       "range": 5
@@ -4990,12 +5044,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972062,
+  "time": 1572481547482,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972063,
+  "time": 1572481547483,
   "meth": "takeDecision"
 },{
   "data": {
@@ -5004,7 +5058,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972063,
+  "time": 1572481547483,
   "meth": "takeDecision"
 },{
   "data": {
@@ -5012,7 +5066,61 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1572478972063,
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "found": "GROUND",
+      "range": 5
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547483,
   "meth": "takeDecision"
 },{
   "data": {
@@ -5024,7 +5132,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972063,
+  "time": 1572481547483,
   "meth": "takeDecision"
 },{
   "data": {
@@ -5032,173 +5140,65 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1572478972063,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972063,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972063,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972063,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972064,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972064,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972064,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972064,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972064,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972065,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972065,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972065,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972065,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "found": "GROUND",
-      "range": 5
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972066,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972066,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972066,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972066,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972066,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972066,
+  "time": 1572481547483,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 7,
+    "extras": {
+      "found": "GROUND",
+      "range": 5
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547483,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
     "extras": {
       "found": "GROUND",
       "range": 27
@@ -5206,159 +5206,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972067,
+  "time": 1572481547484,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1572478972067,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972067,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972067,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 7,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972067,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972067,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 7,
-    "extras": {
-      "found": "GROUND",
-      "range": 28
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972068,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1572478972068,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972068,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972068,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 1
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972068,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1572478972069,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 7,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 51
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972069,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "scan"},
-  "part": "Explorer",
-  "time": 1572478972070,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 8,
-    "extras": {
-      "creeks": [],
-      "biomes": ["OCEAN"],
-      "sites": []
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972070,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "scan"},
-  "part": "Explorer",
-  "time": 1572478972072,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {
-      "creeks": [],
-      "biomes": ["OCEAN"],
-      "sites": []
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1572478972073,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "heading",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1572478972073,
+  "time": 1572481547484,
   "meth": "takeDecision"
 },{
   "data": {
@@ -5367,7 +5220,154 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1572478972073,
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "GROUND",
+      "range": 28
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 1
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1572481547484,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 51
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547485,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1572481547485,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
+    "extras": {
+      "creeks": [],
+      "biomes": ["OCEAN"],
+      "sites": []
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547485,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1572481547486,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "creeks": [],
+      "biomes": ["OCEAN"],
+      "sites": []
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547486,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "heading",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1572481547487,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1572481547487,
   "meth": "takeDecision"
 },{
   "data": {
@@ -5375,7 +5375,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1572478972074,
+  "time": 1572481547487,
   "meth": "takeDecision"
 },{
   "data": {
@@ -5428,6 +5428,6 @@
     "message": ["requirement failed: Congrats, the plane is out of radio range..."]
   },
   "part": "Engine",
-  "time": 1572478972074,
+  "time": 1572481547487,
   "meth": "takeDecision"
 }]
