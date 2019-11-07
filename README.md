@@ -54,7 +54,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | #42   |  Island (MVP) | [**Examen intra**](./exams/intra_A19.pdf) (Campus central, locaux A-2405, A-2625, A-2710)|
 | #43   | _Présentations_ | _Présentations_ |
 | #44   |  Island (Complet) | Étude de cas intra & Rétro-action projets |
-| #45   |  Island (Complet) | Patrons de conception (chevalier)  |
+| #45   |  Island (Complet) | [Patrons de conception (chevalier)](./cours/09_patterns_chevaliers.pdf)  |
 | #46   |  Island (Complet) | Patrons de conception (maître)  |
 | #47   |  Island (Complet) | Live-coding: _UQAM Unit Test Framework_ |
 | #48   |  Island (Complet) | Mesure et visualisation du logiciel (_Code as a crime scene_) |
