@@ -59,7 +59,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | #47   |  Island (Complet) | Live-coding: _UQAM Unit Test Framework_ |
 | #48   |  Island (Complet) | Mesure et visualisation du logiciel (_Code as a crime scene_) |
 | #49   |  _Présentations_ |  _Présentations_  |
-| #50   |  _Révisions_  |  **Examen Final** |
+| #50   |  _Révisions_  |  **Examen Final** (Campus des Sciences, locaux à venir) |
 
 
 Materiel supplémentaire :
