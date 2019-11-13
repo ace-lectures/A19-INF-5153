@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-#MODE=REGULAR
-MODE=SONAR
+MODE=REGULAR
+#MODE=SONAR
 
 for team in is*
 do

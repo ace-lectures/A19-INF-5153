@@ -12,7 +12,6 @@ object Version05 extends Run with INF5153_40 {
 
   override val number: String = "05"
   override def outputDir: String = s"../simulations/$number"
-  override def timeout = 5000
 
   override val seed: Long                = Islands.s05
   override lazy val theIsland: IslandMap = Islands.week05
