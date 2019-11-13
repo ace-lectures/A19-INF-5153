@@ -125,7 +125,7 @@ Pour chaque livraison hebdomadaire du mercredi, 18h:
   2. On doit trouver à la racine de votre dépôt un fichier `rapport_X_mvp.pdf` (où `X` est votre lettre d'équipe), de 5 pages maximum (letter, police 11 pt, interligne simple), contenant : 
       * Le nom des participants de l'équipe
       * Les modèles de conceptions pertinent pour illustrer votre projet
-      * La justification de leur pertinence
+        * La justification de leur pertinence
       * Une analyse critique (force / faiblesse) du projet
       * Les évolutions prioritaires qui doivent être mise en place par la suite
 
@@ -141,7 +141,7 @@ Dans le produit minimal viable, les objectifs fonctionnels `Obj.1.1` et `Obj.2.1
   2. On doit trouver à la racine de votre dépôt un fichier `rapport_X_final.pdf` (où `X` est votre lettre d'équipe), de 10 pages maximum (police 11 pt, interligne simple), contenant : 
       * Le nom des participants de l'équipe
       * Les modèles de conceptions pertinent pour illustrer votre projet
-          * La justification de leur pertinence
+          * La justification de leur pertinence, **typiquement les patrons utilisés**
       * Une analyse critique (force / faiblesse) du projet
       * Les évolutions prioritaires qui doivent être mise en place par la suite
 
