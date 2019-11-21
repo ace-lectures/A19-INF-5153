@@ -1,0 +1,192 @@
+#  Started at :2019-11-20 18:48:51
+
+
+####
+## Handling Équipe ISD [isd]
+####
+# Cloning project from remote repository: OK
+# Opening project isd
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Mon Nov 18 18:10:26 2019 -0500
+# LOC counter [main]: 1922
+# LOC counter [test]: 881
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [isd]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isd]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isd/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isd
+
+####
+## Handling Équipe ISE [ise]
+####
+# Cloning project from remote repository: OK
+# Opening project ise
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Wed Nov 20 17:34:54 2019 -0500
+# LOC counter [main]: 1701
+# LOC counter [test]: 518
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [ise]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/ise]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/ise/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project ise
+
+####
+## Handling Équipe ISG [isg]
+####
+# Cloning project from remote repository: OK
+# Opening project isg
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Wed Nov 20 16:55:08 2019 -0500
+# LOC counter [main]: 4096
+# LOC counter [test]: 538
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [isg]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isg]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isg/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isg
+
+####
+## Handling Équipe ISJ [isj]
+####
+# Cloning project from remote repository: OK
+# Opening project isj
+# Checking out tag [version_08]: FAILURE
+## Abort [missing tag]
+# Leaving project isj
+
+####
+## Handling Équipe ISL [isl]
+####
+# Cloning project from remote repository: OK
+# Opening project isl
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Wed Nov 20 16:19:33 2019 -0500
+# LOC counter [main]: 2040
+# LOC counter [test]: 2206
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [isl]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isl]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isl/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isl
+
+####
+## Handling Équipe ISO [iso]
+####
+# Cloning project from remote repository: OK
+# Opening project iso
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Tue Nov 19 13:40:29 2019 -0500
+# LOC counter [main]: 2203
+# LOC counter [test]: 110
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [iso]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/iso]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/iso/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: FAILURE
+## Abort [project does not build]
+# Leaving project iso
+
+####
+## Handling Équipe ISR [isr]
+####
+# Cloning project from remote repository: OK
+# Opening project isr
+# Checking out tag [version_08]: FAILURE
+## Abort [missing tag]
+# Leaving project isr
+
+####
+## Handling Équipe ISS [iss]
+####
+# Cloning project from remote repository: OK
+# Opening project iss
+# Checking out tag [version_08]: FAILURE
+## Abort [missing tag]
+# Leaving project iss
+
+####
+## Handling Équipe IST [ist]
+####
+# Cloning project from remote repository: OK
+# Opening project ist
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Tue Nov 12 23:15:10 2019 +0000
+# LOC counter [main]: 1450
+# LOC counter [test]: 271
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [ist]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/ist]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/ist/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project ist
+
+####
+## Handling Équipe ISU [isu]
+####
+# Cloning project from remote repository: OK
+# Opening project isu
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Wed Nov 20 15:14:56 2019 -0500
+# LOC counter [main]: 881
+# LOC counter [test]: 27
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [isu]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isu]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isu/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isu
+
+####
+## Handling Équipe ISW [isw]
+####
+# Cloning project from remote repository: OK
+# Opening project isw
+# Checking out tag [version_08]: OK
+# Git stamp: Date:   Wed Nov 20 18:13:36 2019 -0500
+# LOC counter [main]: 1673
+# LOC counter [test]: 488
+# pom.xml/groupId == [ca.uqam.inf5153.island]: OK
+# pom.xml/artifactId == [isw]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isw]: OK
+# Checking existence of [./src/main/java/ca/uqam/inf5153/island/isw/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isw
+
+####
+## Handling Équipe ISZ [isz]
+####
+# Cloning project from remote repository: OK
+# Opening project isz
+# Checking out tag [version_08]: FAILURE
+## Abort [missing tag]
+# Leaving project isz
+
+#  Ended at :2019-11-20 18:50:04
