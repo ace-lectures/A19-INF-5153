@@ -56,8 +56,8 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | #44   |  Island (Complet) | Étude de cas intra & Rétro-action projets |
 | #45   |  Island (Complet) | [Patrons de conception (chevalier)](./cours/09_patterns_chevaliers.pdf)  |
 | #46   |  Island (Complet) | [Patrons de conception (maître)](./cours/10_patterns_master.pdf)  |
-| #47   |  Island (Complet) | Live-coding: _UQAM Unit Test Framework_ |
-| #48   |  Island (Complet) | Mesure et visualisation du logiciel (_Code as a crime scene_) |
+| #47   |  Island (Complet) | Live-coding: [_UQAM Unit Test Framework_](./cours/11_junit.pdf) |
+| #48   |  Island (Complet) | _Code as a crime scene_ (mesure & visualisation) |
 | #49   |  _Présentations_ |  _Présentations_  |
 | #50   |  _Révisions_  |  **Examen Final** (Campus des Sciences, locaux à venir) |
 
