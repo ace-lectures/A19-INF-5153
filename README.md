@@ -40,11 +40,11 @@ Le planning de correction est prévu pour vous permettre d'avoir une évalutatio
 
 ## Agenda des séances
 
-En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En cas d'inversions ponctuelles, les changements seront annoncé sur le slack le plus tôt possible et au moins sept (7) jours à l'avance. 
+En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En cas d'inversions ponctuelles, les changements seront annoncé sur le slack le plus tôt possible et au moins sept (7) jours à l'avance.
 
 
-| #Semaine | Atelier (Mardi, 2h) | Cours (Jeudi, 3h) | 
-| :---: | :---:   | :---    | 
+| #Semaine | Atelier (Mardi, 2h) | Cours (Jeudi, 3h) |
+| :---: | :---:   | :---    |
 | #36   |  | [Pourquoi concevoir ? De _Programmeur_ à _Développeur_.](./cours/01_Programmeur_Developpeur.pdf) |
 | #37   |  Poker  | [Encapsulation, Types et Interfaces](./cours/02_Encapsulation_Type_Etat.pdf)  |
 | #38   |  Poker  | [Composition _versus_ Héritage, Tests](./cours/03_Composition_Heritage_Tests.pdf)   |
@@ -57,7 +57,7 @@ En régime régulier, les cours ont lieu le jeudi et les ateliers le mardi. En c
 | #45   |  Island (Complet) | [Patrons de conception (chevalier)](./cours/09_patterns_chevaliers.pdf)  |
 | #46   |  Island (Complet) | [Patrons de conception (maître)](./cours/10_patterns_master.pdf)  |
 | #47   |  Island (Complet) | Live-coding: [_UQAM Unit Test Framework_](./cours/11_junit.pdf) |
-| #48   |  Island (Complet) | _Code as a crime scene_ (mesure & visualisation) |
+| #48   |  Island (Complet) | [_Code as a crime scene_](./cours/13_metrics.pdf) (mesure & visualisation) |
 | #49   |  _Présentations_ |  _Présentations_  |
 | #50   |  _Révisions_  |  **Examen Final** (Campus des Sciences, locaux à venir) |
 
@@ -67,22 +67,22 @@ Materiel supplémentaire :
   * _Cheatsheet_ sur la syntaxe UML : [cheatsheet.pdf](./docs/cheatsheet.pdf)
       * autorisée au examens en plus d'une feuille de note manuscrites
 
-  * Dépôts de code : 
+  * Dépôts de code :
       * [Référence pour les patrons de conception](https://github.com/ace-lectures/pattern-repository)
-      * [Étude de cas "_UQAM Unit Test Framework_"](https://github.com/ace-lectures/inf5153-junit-demo) 
+      * [Étude de cas "_UQAM Unit Test Framework_"](https://github.com/ace-lectures/inf5153-junit-demo)
 
   * Examens des sessions précédentes (exemples non contractuels)
     * (UQAM) 2019-H: [Intra](./docs/exams/19_H_1_intra.pdf), [Final](./docs/exams/19_H_2_final.pdf)
     * (Polytech Nice) 2018-A: [Final](./docs/exams/18_A_FR_final.pdf)
     * (Polytech Nice) 2017-A: [Final](./docs/exams/17_A_FR_final.pdf)
- 
+
 ## Travaux
 
 Les ateliers ne sont pas optionnels, et font partie intégrante de l'enseignement de ce cours. Si vous avez un conflit d'horaire avec un autre cours et une dérogation de la direction de votre programme d'étude associée, informez immédiatement l'équipe enseignante sur Slack.
 
 ### Projets de session (à rendre)
 
-Vous êtes fortement encouragés à utiliser Slack pour poser des questions durant les projets. 
+Vous êtes fortement encouragés à utiliser Slack pour poser des questions durant les projets.
 
   * Projet 1 : [le Jeu de Poker](./projets/TP1.md) (individuel)
   * Projet 2 : Explorations d'îles inconnues (en équipe de 3 ou 4 étudiants)
@@ -107,7 +107,7 @@ Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULT
 ### Livres d'enseignement
 
   * _Introduction to Software Design with Java_. Springer, 2019.
-    * Martin Robillard (_McGill University_). 
+    * Martin Robillard (_McGill University_).
     * [Accès PDF SpringerLink via UQAM](https://link.springer.com/book/10.1007%2F978-3-030-24094-3)
   * _UML@Classroom_, Springer Verlag, 2015.
     * Martina Seidl, Marion Scholz, Christian Huemer & Gerti Kappel (_Université de Technologie de Vienne_).
@@ -119,14 +119,14 @@ Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULT
   * _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, Addison Wesley, 2011.
     * Nick Rozanski & Eoin (_pronounced “Owen”_) Woods.
     * Disponible en bibliothèque (BU Sciences, cote `QA 76.76 D47 R69 .2012`)
-  * _Head First Design Patterns, a brain friendly guide_. O'REILLY. 
-    * Eric Freeman, Elisabeth Robson. 
+  * _Head First Design Patterns, a brain friendly guide_. O'REILLY.
+    * Eric Freeman, Elisabeth Robson.
     * _(Existe en version française: "Design patterns tête la première")_
-  * _Clean Code_. 
-    * Robert Martin. Prentice Hall. 
+  * _Clean Code_.
+    * Robert Martin. Prentice Hall.
     * Disponible en bibliothèque (BU Sciences, cote `QA 76.76 D47 M38 .2009`)
     * _(Existe en version française: "Coder proprement")_
-  * _Pragmatic Unit Testing_. The pragmatic programmers. 
+  * _Pragmatic Unit Testing_. The pragmatic programmers.
     * Jeff Langr, with Andy Hunt and Dave Thomas.  
     * Disponible en bibliothèque (BU Sciences, cote `QA 76.73 J38 L36 .2015`)
   * _Implementing Domain-Driven Design_, Addison-Wesley Professional, 2013.
@@ -134,26 +134,26 @@ Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULT
   * _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison Wesley, 1994.
     * Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides.
     * Disponible en bibliothèque (BU Sciences, cote `QA76.64D49`)
-    * _(Existe en version française: "Design patterns catalogue de modèles de conception réutilisables")_ 
+    * _(Existe en version française: "Design patterns catalogue de modèles de conception réutilisables")_
   * _Refactoring: Improving the Design of Existing Code_, Addison Wesley, 2018 (2nd edition)
     * Martin Fowler.  
     * Disponible en bibliothèque (BU Sciences, cote `QA 76.76 R42 F69 .1999`)
 
 ## Règlement 18 sur les Infractions de nature académique
 
-Tout acte de plagiat, fraude, copiage, tricherie ou falsification de document commis par un.e étudiant.e, de même que toute participation à ces actes ou tentative de  les commettre, à l’occasion d’un examen ou d’un travail faisant l’objet d’une évaluation ou dans toute autre circonstance, constituent une infraction au sens de ce règlement. 
+Tout acte de plagiat, fraude, copiage, tricherie ou falsification de document commis par un.e étudiant.e, de même que toute participation à ces actes ou tentative de  les commettre, à l’occasion d’un examen ou d’un travail faisant l’objet d’une évaluation ou dans toute autre circonstance, constituent une infraction au sens de ce règlement.
 
-La liste non limitative des infractions est définie comme suit : 
+La liste non limitative des infractions est définie comme suit :
 
-  * la substitution de personnes ; 
+  * la substitution de personnes ;
   * l’utilisation totale ou partielle du texte d’autrui en le faisant passer pour sien ou sans indication de référence ;  
-  * la transmission d’un travail aux fins d’évaluation alors qu’il constitue essentiellement un travail qui a déjà été transmis aux fins d’évaluation académique à l’Université ou dans une autre institution d’enseignement, sauf avec l’accord préalable de l’enseignante, l’enseignant ; 
-  * l’obtention par vol, manœuvre ou corruption de questions ou de réponses d’examen ou de tout autre document ou matériel non autorisés, ou encore d’une évaluation non méritée ; 
-  * la possession ou l’utilisation, avant ou pendant un examen, de tout document non autorisé ; 
-  * l’utilisation pendant un examen de la copie d’examen d’une autre personne ; 
-  * l’obtention de toute aide non autorisée, qu’elle soit collective ou individuelle ; 
-  * la falsification d’un document, notamment d’un document transmis par l’Université ou d’un document de l’Université transmis ou non à une tierce personne, quelles que soient les circonstances ; 
-  * la falsification de données de recherche dans un travail, notamment une thèse,  un mémoire, un mémoire-création, un rapport de stage ou un rapport de recherche. 
+  * la transmission d’un travail aux fins d’évaluation alors qu’il constitue essentiellement un travail qui a déjà été transmis aux fins d’évaluation académique à l’Université ou dans une autre institution d’enseignement, sauf avec l’accord préalable de l’enseignante, l’enseignant ;
+  * l’obtention par vol, manœuvre ou corruption de questions ou de réponses d’examen ou de tout autre document ou matériel non autorisés, ou encore d’une évaluation non méritée ;
+  * la possession ou l’utilisation, avant ou pendant un examen, de tout document non autorisé ;
+  * l’utilisation pendant un examen de la copie d’examen d’une autre personne ;
+  * l’obtention de toute aide non autorisée, qu’elle soit collective ou individuelle ;
+  * la falsification d’un document, notamment d’un document transmis par l’Université ou d’un document de l’Université transmis ou non à une tierce personne, quelles que soient les circonstances ;
+  * la falsification de données de recherche dans un travail, notamment une thèse,  un mémoire, un mémoire-création, un rapport de stage ou un rapport de recherche.
 
 Les sanctions reliées à ces infractions sont précisées à l’[article 3 du Règlement no 18](https://instances.uqam.ca/wp-content/uploads/sites/47/2017/12/REGLEMENT_NO_18.pdf) sur les infractions de nature académique.
 
