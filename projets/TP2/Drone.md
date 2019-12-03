@@ -104,7 +104,7 @@ Le drone dispose d'un sonar à l'avant, ainsi que sur chacun de ses flancs. Le s
       - `{ "cost": 1, "extras": { "range": 2, "found": "GROUND" }, "status": "OK" }`
       - `{ "cost": 1, "extras": { "range": 10, "found": "OUT_OF_RANGE" }, "status": "OK" }`
 
-Dans le premier cas, cela indique que la terre est présente dans deux déplacements en direction de l'`Est`. Dans le second, cela indique qu'il n'y a pas de terre à l'`Est`, et que le drone sortira de la carte dans 10 déplacements dans cette direction.
+Dans le premier cas, cela indique que la terre est présente dans deux déplacements en direction de l'`Est`. Dans le second, cela indique qu'il n'y a pas de terre à l'`Est`, et que le drone sortira de la carte après 10 déplacements dans cette direction.
 
 Cas d'erreur classique : 
 
