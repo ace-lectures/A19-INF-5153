@@ -9,7 +9,7 @@
     "budget": 4500
   },
   "part": "Engine",
-  "time": 1575587381488,
+  "time": 1575587610807,
   "meth": "initialize"
 },{
   "data": {
@@ -17,11 +17,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1575587381502,
+  "time": 1575587610816,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 0
@@ -29,7 +29,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1575587381502,
+  "time": 1575587610816,
   "meth": "takeDecision"
 },{
   "data": {
@@ -90,6 +90,6 @@
     "message": ["Futures timed out after [2000 milliseconds]"]
   },
   "part": "Explorer",
-  "time": 1575587383506,
+  "time": 1575587612821,
   "meth": "acknowledgeResults"
 }]
